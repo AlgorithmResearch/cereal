@@ -1,1 +1,1 @@
-<img src="cereals.cereal.html">
+<img src="cereal.cereal.html">
